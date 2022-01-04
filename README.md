@@ -12,3 +12,8 @@ Learning
 - React-native
 - Inkscape
 - Adobe XD
+
+
+Pages:
+- Dairy products: https://gitbrave99.github.io/parcialweblacteos/aboutus.html
+- Bakery: https://gitbrave99.github.io/plant_boostrap_bakery/
