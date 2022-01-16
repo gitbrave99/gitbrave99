@@ -12,6 +12,7 @@ Learning
 - React-native
 - Inkscape
 - Adobe XD
+- Python
 
 
 Pages:
