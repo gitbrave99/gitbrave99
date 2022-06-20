@@ -16,5 +16,5 @@ Learning
 <img align="left" alt="something" width="40px" src="https://github.com/gitbrave99/gitbrave99/blob/master/linkedin.svg">
 </a>
 <a href="mailto:bezisaa@gmail.com">
-  <img align="left" alt="something" width="40px" src="https://github.com/gitbrave99/gitbrave99/blob/master/gmail.svg>
+  <img align="left" alt="something" width="40px" src="https://github.com/gitbrave99/gitbrave99/blob/master/gmail.svg">
 </a>
