@@ -12,7 +12,7 @@ Learning
 - Adobe XD
 
 ## Find Me
-- [LinkedIn] (https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226)
+- [LinkedIn](https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226)
 - 
 
 
