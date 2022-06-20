@@ -11,5 +11,8 @@ Learning
 - Inkscape
 - Adobe XD
 
-## Skills
+## Find Me
+- [LinkedIn] (https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226)
+- 
+
 
