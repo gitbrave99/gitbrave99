@@ -1,15 +1,25 @@
 # Hi! I´m Isaac <br>
-## I am a software developer
+## I am a web developer
 
-My hobbies
+## My hobbies
 - Workout
 - play the guitar, violin and bass
 - Read
 
-Learning
+## Learning
 - React
 - Inkscape
 - Adobe XD
+
+## Skills
+- Boostrap
+- Materialize
+- Vue js
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
 
 ## Find Me
 <a href="https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226">
