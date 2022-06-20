@@ -3,7 +3,7 @@
 
 ## My hobbies
 - Workout
-- play the guitar, violin and bass
+- Play the guitar, violin and bass
 - Read
 
 ## Learning
