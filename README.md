@@ -20,6 +20,7 @@
 - JavaScript
 - SQL
 - Git
+- Java
 
 ## Find Me
 <a href="https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226">
