@@ -8,8 +8,6 @@
 
 ## Learning
 - React
-- Inkscape
-- Adobe XD
 
 ## Skills
 - Boostrap
