@@ -1,5 +1,5 @@
 # Hi! I´m Isaac <br>
-## I am a web developer
+## I am a FullStack developer
 
 ## My hobbies
 - Workout
@@ -7,18 +7,20 @@
 - Read
 
 ## Learning
-- React
+- Angular
 
 ## Skills
 - Boostrap
 - Materialize
-- Vue js
+- React
+- Angular
 - HTML
 - CSS
 - JavaScript
 - SQL
 - Git
 - Java
+-  SpringBoot
 
 ## Find Me
 <a href="https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226">
