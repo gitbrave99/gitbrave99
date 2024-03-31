@@ -2,8 +2,8 @@
 ## I am a FullStack developer
 
 ## My hobbies
+- In search of the meaning of life
 - Workout
-- Play the guitar, violin and bass
 - Read
 
 ## Learning
