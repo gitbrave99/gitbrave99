@@ -11,7 +11,7 @@
 
 ## Skills
 - Boostrap
-- Materialize
+- Primeng
 - React
 - Angular
 - HTML
@@ -20,7 +20,7 @@
 - SQL
 - Git
 - Java
--  SpringBoot
+- SpringBoot
 
 ## Find Me
 <a href="https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226">
