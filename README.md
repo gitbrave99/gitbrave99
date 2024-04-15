@@ -20,7 +20,11 @@
 - SQL
 - Git
 - Java
+- JSF
 - SpringBoot
+- Oracle PLSQL
+- MySQL
+- PostgreSQL
 
 ## Find Me
 <a href="https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226">
