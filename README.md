@@ -7,7 +7,7 @@
 - Read
 
 ## Learning
-- Angular
+- Docker
 
 ## Skills
 - Boostrap
@@ -17,10 +17,12 @@
 - HTML
 - CSS
 - JavaScript
+- Typescript
 - SQL
 - Git
 - Java
 - JSF
+- Primefaces
 - SpringBoot
 - Oracle PLSQL
 - MySQL
