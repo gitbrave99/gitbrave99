@@ -2,24 +2,24 @@
 ## I am a FullStack developer
 
 ## My hobbies
-- In search of the meaning of life
+- Running
 - Workout
-- Read
+- Reading
 
 ## Learning
 - Docker
 
 ## Skills
+- Angular
 - Boostrap
+- CSS
 - Primeng
 - React
-- Angular
+- Git
 - HTML
-- CSS
 - JavaScript
 - Typescript
 - SQL
-- Git
 - Java
 - JSF
 - Primefaces
@@ -29,7 +29,7 @@
 - PostgreSQL
 
 ## Find Me
-<a href="https://www.linkedin.com/in/isaac-god%C3%ADnez-43bb04226">
+<a href="https://www.linkedin.com/in/preza-isaac">
 <img align="left" alt="something" target="_blank" width="40px" src="https://github.com/gitbrave99/gitbrave99/blob/master/linkedin.svg">
 </a>
 <a href="mailto:isaac.preza.g@gmail.com">
