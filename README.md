@@ -30,6 +30,8 @@
 
 ### Project
 [QR Generator Angular](https://gitbrave99.github.io/qr-generator-angular)
+[Bakery template](https://gitbrave99.github.io/plant_boostrap_bakery)
+[Store template](https://gitbrave99.github.io/plant_tiendaweb)
 
 ## Find Me
 <a href="https://www.linkedin.com/in/preza-isaac">
