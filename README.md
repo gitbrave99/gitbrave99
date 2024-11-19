@@ -28,6 +28,9 @@
 - MySQL
 - PostgreSQL
 
+### Project
+[QR Generator Angular](https://gitbrave99.github.io/qr-generator-angular)
+
 ## Find Me
 <a href="https://www.linkedin.com/in/preza-isaac">
 <img align="left" alt="something" target="_blank" width="40px" src="https://github.com/gitbrave99/gitbrave99/blob/master/linkedin.svg">
